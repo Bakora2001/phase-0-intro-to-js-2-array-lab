@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-04-07T10:41:55.186Z",
+    "end": "2024-04-07T10:41:56.978Z",
+    "duration": 1792
+  },
+  "tests": [
+    {
+      "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
+      "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "appends a cat to the end of the cats array",
+      "fullTitle": "index.js Array functions destructivelyAppendCat(name) appends a cat to the end of the cats array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
+      "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "appends a cat to the end of the cats array",
+      "fullTitle": "index.js Array functions destructivelyAppendCat(name) appends a cat to the end of the cats array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
